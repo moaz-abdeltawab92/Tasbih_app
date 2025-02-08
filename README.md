@@ -23,7 +23,7 @@ This application is a simple and efficient tool designed to assist with Islam.
 
 Here is a glimpse of the Tasbih App showcasing its main features:  
 
-![App Preview](https://raw.githubusercontent.com/moaz-abdeltawab92/Tasbih-app/master/115shots_so.png)
+![App Preview](https://raw.githubusercontent.com/moaz-abdeltawab92/Tasbih_app/master/115shots_so.png)
 
 ---
 
