@@ -1,16 +1,43 @@
-# tasbeeh_app
+# Tasbih App
 
-A new Flutter project.
+A simple Flutter application designed for digital Tasbih (prayer beads) to help users keep track of their recitations with ease.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Overview**
 
-A few resources to get you started if this is your first Flutter project:
+Tasbih App provides a minimalist interface to help users count and track their daily recitations. The app is easy to use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This application is a simple and efficient tool designed to assist with Islam.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## **Features**
+
+- **Single Page Design**: A clean interface for a focused experience.
+- **Count Tracker**: Easily increment or reset the count as needed.
+
+---
+
+## **Preview**
+
+Here is a glimpse of the Tasbih App showcasing its main features:  
+
+![App Preview](https://raw.githubusercontent.com/moaz-abdeltawab92/Tasbih-App/master/115shots_so.png)
+
+---
+
+## **Technologies Used**
+
+- **Flutter**: Framework used for building the application.
+- **Dart**: Programming language used to develop the app.
+
+![Flutter](https://img.shields.io/badge/Flutter-3.10.5-blue)  
+![Dart](https://img.shields.io/badge/Dart-2.20-green)
+
+---
+
+## **Notes**
+
+The Tasbih App is a basic utility designed to provide functionality without any additional complexities, focusing on simplicity and usability.
+
